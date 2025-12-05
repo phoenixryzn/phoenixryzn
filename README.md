@@ -29,7 +29,7 @@ This GitHub documents my **hands-on journey toward DevSecOps mastery**, powered 
 ## 🔐 My DevSecOps Focus Areas
 
 ### **🧩 Platform Engineering**
-- Kubernetes (k3s/minikube/EKS)
+- Kubernetes
 - Helm charts, GitOps, ArgoCD
 - Container orchestration & microservices
 
