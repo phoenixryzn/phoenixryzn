@@ -83,6 +83,7 @@ Infrastructure → CI/CD → Containers → K8s → Policies → Secrets → Mon
 ---
 
 # 🛠️ Tech Stack
+
 <p align="center">
 
 <!-- IaC -->
@@ -112,9 +113,15 @@ Infrastructure → CI/CD → Containers → K8s → Policies → Secrets → Mon
 
 ---
 
-# 🎯 Philosophy
+# 📘 Engineering Principles I Follow
 
-> **Secure by default. Automated by design. Measurable at every stage.**
+> **Secure by default**  
+> **Automated from the start**  
+> **Observable at every layer**  
+> **Reproducible through IaC**  
+> **Governed by policy, not manual checks**
+
+These principles guide every project in this repository.
 
 ---
 
@@ -126,6 +133,7 @@ Infrastructure → CI/CD → Containers → K8s → Policies → Secrets → Mon
   </a>
 </p>
 
----
+<p align="center"><i>Always open to connecting with engineers, builders, and teams working on secure platform innovation.</i></p>
 
-<h3 align="center">⭐ New DevSecOps projects released every week • Follow to track progress</h3>
+---
+<h3 align="center">⭐ New DevSecOps projects published regularly — follow to explore upcoming systems</h3>
