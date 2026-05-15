@@ -74,6 +74,8 @@ Each project is designed with a strong emphasis on:
 
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white" />
 
 <!-- Containers -->
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
