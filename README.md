@@ -65,23 +65,6 @@ Each project is designed with a strong emphasis on:
 ✔ Reproducibility  
 ✔ Documentation + diagrams  
 
-### 🔸 **1. AWS Secure Infrastructure as Code (Terraform + Checkov)**
-Modular AWS VPC, IAM, EC2, encryption, and policy enforcement.
-
-### 🔸 **2. Secure CI/CD Pipeline**
-Integrated SAST, SCA, SBOM, Trivy scanning, and GitHub Actions-based supply-chain validation.
-
-### 🔸 **3. Kubernetes Security Platform**
-Helm-driven deployments with admission control policies, RBAC hardening, and runtime scanning.
-
-### 🔸 **4. Vulnerability Management Automation**
-Tenable → Python → Ansible workflow for remediation prioritization and automated patching.
-
-### 🔸 **5. End-to-End DevSecOps Platform (Capstone)**
-Infrastructure → CI/CD → Containers → K8s → Policies → Secrets → Monitoring → Vulnerability Automation.
-
----
-
 # 🛠️ Tech Stack
 
 <p align="center">
