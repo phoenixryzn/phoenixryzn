@@ -70,17 +70,15 @@ Each project is designed with a strong emphasis on:
 <p align="center">
 
 <!-- IaC -->
-<img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" />
+<img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" />
 
 <!-- Cloud -->
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
 <!-- Containers -->
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
-<img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge" />
 
 <!-- Security -->
 <img src="https://img.shields.io/badge/Semgrep-222222?logo=semgrep&logoColor=white&style=for-the-badge" />
