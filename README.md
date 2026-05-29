@@ -1,122 +1,73 @@
-<!-- Title -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4BA3F1;">Srinath Govindarajan</span></h1>
-<h3 align="center">Senior DevSecOps Engineer | Cloud • Kubernetes • Security • Automation</h3>
+# Srinath Govindarajan
+**Senior DevSecOps Engineer** · Cloud · Kubernetes · Security · Automation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevSecOps-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-Platform-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Driven-red?style=for-the-badge" />
-</p>
+`AWS` `Kubernetes` `Security Engineering` `Infrastructure as Code` `CI/CD`
 
 ---
 
-## 🚀 About Me
+## About
 
-I’m a Senior DevSecOps Engineer with experience across cloud infrastructure, platform automation, container orchestration, and security engineering.
+I build secure-by-default, automated, and observable platforms that support modern application delivery at scale.
 
-My work focuses on building **secure-by-default, automated, observable, and scalable platforms** that support modern application delivery.  
-This GitHub space showcases the systems, infrastructure patterns, and engineering practices that I apply and refine through hands-on projects.
+This space documents the infrastructure patterns, security tooling, and engineering practices I apply through real hands-on work — from cloud architecture and Kubernetes policy enforcement to full CI/CD pipelines with embedded security gates.
 
 ---
 
-# 🛡️ **DevSecOps Focus Areas**
+## Focus Areas
 
-### **☁️ Cloud & Infrastructure**
-- AWS infrastructure design  
-- VPC architecture, IAM, EC2, S3, KMS  
-- Infrastructure as Code (Terraform)  
+### ☁️ Cloud & Infrastructure
+- AWS — VPC, IAM, EC2, S3, KMS
+- Terraform (IaC)
 - Secrets management
 
-### **⚙️ Automation & CI/CD**
-- GitHub Actions • Jenkins  
-- SAST, SCA, SBOM, image scanning  
-- GitOps workflows  
-- Automated compliance controls  
+### 📦 Kubernetes & Containers
+- Docker multi-stage builds
+- Helm chart development
+- OPA/Gatekeeper · Kyverno policies
+- RBAC · PodSecurity · NetworkPolicy
 
-### **🧱 Kubernetes & Containers**
-- Docker multi-stage builds  
-- Kubernetes deployments, services, ingress  
-- Helm chart development  
-- RBAC, PodSecurity, NetworkPolicies  
-- OPA/Gatekeeper & Kyverno policies  
+### 🔐 Security Engineering
+- Semgrep (SAST)
+- Trivy · Snyk · OWASP Dependency Check (SCA)
+- Checkov · tfsec (IaC governance)
+- Tenable automation · vulnerability remediation pipelines
 
-### **🔍 Security Engineering**
-- Semgrep (SAST)  
-- Snyk / OWASP Dependency Checks (SCA)  
-- Trivy scanning (container & IaC)  
-- Checkov & tfsec for IaC governance  
-- Vulnerability management workflows  
-- Tenable automation and remediation pipelines  
+### ⚙️ Automation & CI/CD
+- GitHub Actions · Jenkins
+- GitOps workflows
+- SBOM generation · image scanning
+- Automated compliance controls
 
-### **📊 Observability**
-- Prometheus & Grafana dashboards  
-- CloudWatch logging & metrics  
-- Audit trails & compliance visibility  
+### 📊 Observability
+- Prometheus & Grafana dashboards
+- CloudWatch logging & metrics
+- Audit trails & compliance visibility
 
 ---
 
-# 🧪 **Active DevSecOps Projects**
+## Engineering Principles
 
-Each project is designed with a strong emphasis on:  
-✔ Architecture clarity  
-✔ Secure defaults  
-✔ Automated validation  
-✔ Reproducibility  
-✔ Documentation + diagrams  
+> **Secure by default** — security is a first-class concern, not a retrofit
 
-# 🛠️ Tech Stack
+> **Automated from the start** — eliminate manual toil at every layer
 
-<p align="center">
+> **Observable at every layer** — metrics, logs, and traces are non-negotiable
 
-<!-- IaC -->
-<img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" />
+> **Reproducible through IaC** — infrastructure is code, not click-ops
 
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-
-<!-- Containers -->
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge" />
-
-<!-- Security -->
-<img src="https://img.shields.io/badge/Semgrep-222222?logo=semgrep&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Trivy-1904D3?logo=aqua&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Checkov-0052CC?style=for-the-badge" />
-
-<!-- Automation -->
-<img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
-
-</p>
+> **Governed by policy** — enforcement via tooling, not manual review
 
 ---
 
-# 📘 Engineering Principles I Follow
+## Tech Stack
 
-> **Secure by default**  
-> **Automated from the start**  
-> **Observable at every layer**  
-> **Reproducible through IaC**  
-> **Governed by policy, not manual checks**
-
-These principles guide every project in this repository.
+`Terraform` `AWS` `Docker` `Kubernetes` `Helm` `Ansible` `GitHub Actions` `Jenkins`
+`Semgrep` `Trivy` `Checkov` `Kyverno` `OPA` `Prometheus` `Grafana` `Python` `Bash`
 
 ---
 
-# 🤝 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinathgovindarajan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/srinathgovindarajan)
 
-<p align="center"><i>Always open to connecting with engineers, builders, and teams working on secure platform innovation.</i></p>
-
----
-<h3 align="center">⭐ New DevSecOps projects published regularly — follow to explore upcoming systems</h3>
+Open to connecting with engineers, platform teams, and builders working on secure infrastructure.
